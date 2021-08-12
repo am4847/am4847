@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @am4847 
 - 👀 I’m interested in backend programming and a little frontend prgramming
-- 🌱 I’m currently learning jpa with spring boot4 and some react native 
+- 🌱 I’m currently learning jpa with spring boot2.0 and some react native 
      ( and interested Kotlin, vue.js maybe try to learn...)
 - 💞️ I’m looking to collaborate on backend programming and frontend prgramming all of them
 - 📫 How to reach me - please sending email with am4847@kakao.com
